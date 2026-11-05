@@ -276,15 +276,15 @@
     },
     {
       "path": "reklama/index.html",
-      "sha256": "1599a3f53b40fb87d6a5455e97173fece47bf8650fbf73bc9b5472c95565ffce"
+      "sha256": "7c4e4ed49bbad05449b284f817beb6ec2d78f6a3a4e007ad2b86519a3c0474f5"
     },
     {
       "path": "review/content.txt",
-      "sha256": "720e65446e6f134c1326254c2930f70d7e590f513adc2eaaf6ccfdccf8d7aa1e"
+      "sha256": "23ba93195c1fafa442f9081c33ddabed8b32ad17b9192b038f46ce90ccb88e65"
     },
     {
       "path": "review/manifest.json",
-      "sha256": "287cab901b82da08310435e5671f83091178c2a9d1198a1fc353ba0a1f17325b"
+      "sha256": "13317cda177f6611f917c131e409013fd9c6bb97b874bb9f46e2fccb9d9f6018"
     },
     {
       "path": "review/query-map.csv",
@@ -292,7 +292,7 @@
     },
     {
       "path": "review/structure.csv",
-      "sha256": "5c4fe02ad494fccfee2e091266e26d4566bf5028a24a5df327da91e9c162bb6b"
+      "sha256": "7b1a736c490992349d404140395b80c66cc073dea087f924c784006daba68c31"
     },
     {
       "path": "review/technical-seo.txt",
@@ -324,7 +324,7 @@
     },
     {
       "path": "seo/index.html",
-      "sha256": "b006bbe305cb6def065c8621fb53c28dafb2a527c2f8d041cdd875f54342c432"
+      "sha256": "88fcc1096e78cc01cfb9fe868f55b7bbf2d8ccf5578bd2d2cdb3bc4041244b14"
     },
     {
       "path": "sitemap.xml",
