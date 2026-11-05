@@ -6,6 +6,7 @@
   "description": "Город-Курорт — статический SEO-прототип сайта",
   "scripts": {
     "build": "node scripts/build.mjs",
+    "build:pages": "node scripts/export-pages.mjs",
     "test": "node scripts/check.mjs",
     "dev": "node scripts/build.mjs && node scripts/serve.mjs",
     "check": "npm run build && npm test"

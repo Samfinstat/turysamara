@@ -1,0 +1,338 @@
+{
+  "mode": "review",
+  "base": "/turysamara",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404/index.html",
+      "sha256": "671e22b17dd8c0d1e8f1a60f6934e1443cbb519821d5f66c43ae5d37dc846814"
+    },
+    {
+      "path": "404.html",
+      "sha256": "671e22b17dd8c0d1e8f1a60f6934e1443cbb519821d5f66c43ae5d37dc846814"
+    },
+    {
+      "path": "akcii/index.html",
+      "sha256": "08292b280b245722316e500835a816a0fa7bc14adfcd218f6ed532ff5e53b7da"
+    },
+    {
+      "path": "assets/app.js",
+      "sha256": "df64d76801422e846c96ee3dddcabb7a6b176bcd715aca56d54f1db8b1b57b9e"
+    },
+    {
+      "path": "assets/bolgar.webp",
+      "sha256": "3406b8ccbea38dc79e0f71bde907920edaa003d5c95d85611fc937d2044b4a13"
+    },
+    {
+      "path": "assets/brewery.webp",
+      "sha256": "3608f0860327d0b561f020f8a720afcd353385e62fead01ada1d694475a1ce01"
+    },
+    {
+      "path": "assets/castle.webp",
+      "sha256": "3484ea65f900a67e1fc9573e71599c1fa755910068110bb5d608707ed5010585"
+    },
+    {
+      "path": "assets/cheese.webp",
+      "sha256": "35fa1e00fbcb92b88e40b623b558db4c712c3ea41d5db9c8df990a91a0a46552"
+    },
+    {
+      "path": "assets/diveevo.webp",
+      "sha256": "5c5780e509150f3b14bd13528627190263940fd1fd694ebf2a2a2b4232b5812c"
+    },
+    {
+      "path": "assets/evening.webp",
+      "sha256": "f990d422a622539235fdaf7c7c49698d667f240847471519d51f855a2d3fafa7"
+    },
+    {
+      "path": "assets/family.webp",
+      "sha256": "6676c0aa65ad18178aae0077d0aabf60390543b288a224fd751104883242fb35"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "sha256": "99a8b3c7fca5079f6f0fd5e777c29905dc2fe301c4159ca8279521f4db078b9d"
+    },
+    {
+      "path": "assets/hero.webp",
+      "sha256": "8f83a108e08c6a240dd09d15d644917b29ba76a0c087a2cf4744acea175c62bd"
+    },
+    {
+      "path": "assets/kazan.webp",
+      "sha256": "acc3c2346c329d92a2350699e038b3135d0032491105274d1e59170ddadf0b26"
+    },
+    {
+      "path": "assets/merchant.webp",
+      "sha256": "6340e9f606dfdb9f9c4b25695d377fefbdbefba04f98d9fbe29241a8d5f8a69e"
+    },
+    {
+      "path": "assets/moscow.webp",
+      "sha256": "7dcc273549409902ed0ac17683bf5a597243fb4c31a6d766649775f941a5d37b"
+    },
+    {
+      "path": "assets/nature.webp",
+      "sha256": "e1ef76d82e48cee9ffaaabbd4782ab6d4fc51dede92abc77a846d8e58eac4565"
+    },
+    {
+      "path": "assets/river.webp",
+      "sha256": "99d10bfc93116a5406f855dd9edd7c2b679a95c0d1533df816485a7d01b9592a"
+    },
+    {
+      "path": "assets/roof.webp",
+      "sha256": "adc201dda988a6d778d9013453560c7886cf3eb2777acfdc7833d509e82d6556"
+    },
+    {
+      "path": "assets/search-index.json",
+      "sha256": "9d2aebc3c7059382a2ecfbb4516b4d134c2c5b50c148643bd40285f4121299e7"
+    },
+    {
+      "path": "assets/strelnaya.webp",
+      "sha256": "601b6a5aaa887bf5bf700e626e71dda56c5964b35c6f5209b509df2a59e6af56"
+    },
+    {
+      "path": "assets/style.css",
+      "sha256": "65aadbe25331be95a06b7991527ced03d2c189a5efbfa6789d30e72a41f4d51a"
+    },
+    {
+      "path": "assets/yoshkar.webp",
+      "sha256": "2afae1759dd9ff6bf1e836c56f5f4443e7a6f98e6239d111b8d49ab0cfd1d682"
+    },
+    {
+      "path": "blog/index.html",
+      "sha256": "719385838497ca5524272aabfa4396503b3c911ff9481e6fb83f545efcb5be6a"
+    },
+    {
+      "path": "blog/kak-vybrat-ekskursiyu-po-samare/index.html",
+      "sha256": "bd1b587cfad40abb866ffbfa74a0d882b2a5684e511d19a6ccc133379796a0a8"
+    },
+    {
+      "path": "ekskursii/bunker-stalina/index.html",
+      "sha256": "0acefa7dabdd5872c7287ac38556cf3df953c2b936ac4303216d8542791bf7de"
+    },
+    {
+      "path": "ekskursii/dlya-detey-v-samare/index.html",
+      "sha256": "6fb930593d1afa1d11271ed1b848553283bb98445172823af58c655e486f876f"
+    },
+    {
+      "path": "ekskursii/na-teplohode-iz-samary/index.html",
+      "sha256": "6f90ffc4d805f52d4f294e9bf1b7481b0c71e60cad8d2f935958d56205e3eca3"
+    },
+    {
+      "path": "ekskursii/obzornye-po-samare/index.html",
+      "sha256": "beec20fafa4749556d475a464a63e5baf19fe2ad0e7d237e3cfd1eede94f656e"
+    },
+    {
+      "path": "ekskursii/peshehodnye-po-samare/index.html",
+      "sha256": "0bc7edc0687c02f4aa8365e6bcfbedf8797d3ee40b7c3e2c14fa6a748e7bacfc"
+    },
+    {
+      "path": "index.html",
+      "sha256": "0c2b30b5d131b52fa638b8bf9d5e9af2c72c4bef60639eb7e07f94ceed375811"
+    },
+    {
+      "path": "individualnye-ekskursii/index.html",
+      "sha256": "becab23d81fc2d59e526d47c06b0478dd22c68276776d0934a81ffb21a9f4b44"
+    },
+    {
+      "path": "kak-zabronirovat/index.html",
+      "sha256": "bed4306dd4cae5fdfed0160ab257e25305ea31e5242c6f10166d4a48c65b5217"
+    },
+    {
+      "path": "kontakty/index.html",
+      "sha256": "7643fa2e224cc016729d7bef352c3a0af456afd4e784e726c7050c4e363f9bb2"
+    },
+    {
+      "path": "korzina/index.html",
+      "sha256": "7d65fa839ef2dd592868c8ee9c47f65e5d2da25376a28e2f90d63c6cd225d3fa"
+    },
+    {
+      "path": "krysha-goroda-kurorta/index.html",
+      "sha256": "a28ec237d0deb467a82475897d9ce12b557dedb2e541cfaa8e7be612a2c57eda"
+    },
+    {
+      "path": "o-proekte/index.html",
+      "sha256": "8af1e80f361c95eb25ff6c0613e6d42b9397581a0718013d98bb569725cceb20"
+    },
+    {
+      "path": "poisk/index.html",
+      "sha256": "1bd9517a566bb96efd9160ca3536876847fa8d4fe133f851b9464b6a5e3a1809"
+    },
+    {
+      "path": "product/doroga-v-skazku-s-poseshheniem-zamka-garibaldi/index.html",
+      "sha256": "67db4dab07da3a7ce0f6b59285423f58803911b1f30d7ec78463163d99f19b51"
+    },
+    {
+      "path": "product/esli-b-bylo-more-piva-ekskursiya-na-zavod-baltika-samara-s-degustacziej/index.html",
+      "sha256": "d11aeecebc9959b47d8aacefb9361ed9c03274c290cf198490df236921768ed7"
+    },
+    {
+      "path": "product/geroj-nashego-puteshestviya-odnodnevnyj-tur-v-penzu-i-tarhany-iz-samary/index.html",
+      "sha256": "a8a04872af473601fbd64f924526aa12037e8dd7e94b9e70e6ef843ec3d7680a"
+    },
+    {
+      "path": "product/individualnaja-obzornaja-jekskursija-po-samare/index.html",
+      "sha256": "8971bde802528c8f8272d3d36529bd1601b4cbcb983f3611b4ee38d4b3096a44"
+    },
+    {
+      "path": "product/kak-syr-v-masle-jekskursija-na-syrovarnju-s-degustaciej/index.html",
+      "sha256": "bc0c8494abc4465e948fd78026e231e120b149dc23450f4e1ace4296b3a2c3e9"
+    },
+    {
+      "path": "product/kamera-motor-samara-nochnaya-kinoekskursiya-s-proektorom-po-mestam-syomok-filmov-v-samare/index.html",
+      "sha256": "345ee5798ec0b93b949ca5458946ec176093b52ce6e8f5f2e13c415fdad5e2dd"
+    },
+    {
+      "path": "product/kraj-7-vetrov-podvalskie-terrasy-i-zabroshennaja-grafskaja-usadba/index.html",
+      "sha256": "4e56f27dac21be33e6765474c36430628caca945c16287a35c782df81c6f019a"
+    },
+    {
+      "path": "product/magiya-malenkoj-evropy-odnodnevnyj-lajt-tur-v-joshkar-olu/index.html",
+      "sha256": "527817466a2c2e924036d144cee2d8dc9bd6f8185b0fa1680fd4fbbad6ce4d52"
+    },
+    {
+      "path": "product/new-kupecheskaya-samara/index.html",
+      "sha256": "28b597676d880b5c3e82f02cc1eb267359a2dde03140fe49188d120f71099b93"
+    },
+    {
+      "path": "product/new-osennee-puteshestvie-zamok-garibaldi-i-ferma-alpak/index.html",
+      "sha256": "a70c9b5726155d41bfcff431fac383e7d9514e12f67fc30616cbb7efc3ff7d84"
+    },
+    {
+      "path": "product/novogodnie-skazki-tysyacheletnego-goroda-odnodnevnyj-lajt-tur-v-kazan/index.html",
+      "sha256": "cbd81707e4e2429b28d97787c6862b6910971253bb37f97e893d23df7d00c21d"
+    },
+    {
+      "path": "product/po-sledam-zhigulevskoj-volniczy-teplohodnaya-ekskursiya/index.html",
+      "sha256": "da3870908126d18bc004021ae7ff17b71384499290c9484ea84c543a8104894d"
+    },
+    {
+      "path": "product/podzemnaja-samara-s-poseshheniem-bunkera-zhukova/index.html",
+      "sha256": "99e4386b63931725cf5c97a157c4603444471df2f9c207d4d4490974c7ce4773"
+    },
+    {
+      "path": "product/puteshestvie-v-bolgar/index.html",
+      "sha256": "8e13da2dec736875ee4b5efb09793fcd56adb23adfb6d345e10ca289e50d8e1e"
+    },
+    {
+      "path": "product/rozhdestvenskij-tur-v-moskvu-i-volshebnyj-klin-zimnee-priklyuchenie-s-poseshheniem-fabriki-yolochnyh-igrushek/index.html",
+      "sha256": "784d4fa055e5229ab6da74d028b5aea842f8b777bce78add26aa172215aa260e"
+    },
+    {
+      "path": "product/samara-puteshestvie-cherez-veka-vse-samoe-glavnoe-o-gorode-za-dva-chasa-obzornaya-ekskursiya-po-gorodu/index.html",
+      "sha256": "9d549c66ab37dec4ac268f5afdf22f1e22ec62e66c958530f07ea46bee5a4791"
+    },
+    {
+      "path": "product/sanatorij-dlya-dushi-odnodnevnyj-avtobusnyj-tur-v-diveevo-iz-samary/index.html",
+      "sha256": "35a73f79177287fdc8b0348006e736b8072410eff2cbb3e8eace284bb1047681"
+    },
+    {
+      "path": "product/sokskie-shtolni-pogruzhenie-v-serdce-tmy/index.html",
+      "sha256": "342992dfafddcf0c74168a5fcb153c41d9684944e1fe720fec91d1e31fd0ef12"
+    },
+    {
+      "path": "product/teplohodnaja-jekskursija-v-vinnovku/index.html",
+      "sha256": "8cfe9c63cdf124fc42e221b0d0cbe7c71ff014fe482a26e3cad634d9fe8365c4"
+    },
+    {
+      "path": "product/vse-my-rodom-iz-detstva-semejnaya-peshehodnaya-ekskursiya-s-master-klassom-v-detskoj-kartinnoj-galeree/index.html",
+      "sha256": "367d23b900877ca0cf0c95453321550e38675265e553eb12c78183fc38b8e1d4"
+    },
+    {
+      "path": "product/vysoty-i-krasoty-strelnaya-i-shiryaevo-za-odin-den-lajt/index.html",
+      "sha256": "c35bebe4e6ab744d6088d053223bcfe5fad5adfb69c99f3a521b768615745283"
+    },
+    {
+      "path": "product-category/ekskursii-dlya-shkolnikov/index.html",
+      "sha256": "aee2d1083d79026fef35ba542ca686064d54f257afaef5a8da9474538b8538d5"
+    },
+    {
+      "path": "product-category/gastrotury/index.html",
+      "sha256": "56f0bafeb24b8ea17bb1189081de31aa8ccb801a14b141175732cedd9ab5f4df"
+    },
+    {
+      "path": "product-category/mezdugorodnie-turi/index.html",
+      "sha256": "da8860159f8a14b8a4303d6032ed6b84e5a9f759ad179910d5d89ac542d3963f"
+    },
+    {
+      "path": "product-category/neobychnye-ekskursii/index.html",
+      "sha256": "2528c492e0b20f249cf5822d2739c36d4a4dc1eb44404019cd57817fcaadf36c"
+    },
+    {
+      "path": "product-category/zagorodnye-ekskursii/index.html",
+      "sha256": "8b0cbc957ad6a63cfd232f068f0d73b823161303c8f96c6820611ca63f40365f"
+    },
+    {
+      "path": "product-category/znakomstvo-s-samaroj/index.html",
+      "sha256": "eaf6140a84bde977ab17b951c18ae328aaaa5fec7af7e8066ac0ab5ed0f5162c"
+    },
+    {
+      "path": "programmy/korporativnye/index.html",
+      "sha256": "6ab1c0b68debe181302ea2c96fea4daa8ca7c4b8dd67e9a8a9318365b9b67323"
+    },
+    {
+      "path": "raspisanie/index.html",
+      "sha256": "9fede1e6667c2d9ecff942c225909d4e3dea11c96f97d18c3e86f7f068308994"
+    },
+    {
+      "path": "review/content.txt",
+      "sha256": "31c7d56218243756f2fbd501d92c44eec3da56d9f8e5f473b6fd208728d87fc4"
+    },
+    {
+      "path": "review/manifest.json",
+      "sha256": "287ab747f2cfab07655923d31718cff58122d6cf5a3b1ce2cc2684ab58636be2"
+    },
+    {
+      "path": "review/query-map.csv",
+      "sha256": "37c701fe5cae6e003936d1d0149053d39b79a3125863fadb70a3dcb2460bbf10"
+    },
+    {
+      "path": "review/structure.csv",
+      "sha256": "2d0d6d9d0bd123fff72fb2b10f66cc336e69f327ae24e866ae4eb5be66a0ba48"
+    },
+    {
+      "path": "review/technical-seo.txt",
+      "sha256": "3c40714ab683ffc543a6797eaeb0da1a7a99dc63d6c411197fb6ce99f01211f0"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "b34dd973963706a7ea9ef0ebb695a574da3909366dc9694c3d64bafcd1f1f9a7"
+    },
+    {
+      "path": "samarskaya-oblast/gora-strelnaya/index.html",
+      "sha256": "05fb95580d0cf4b297e5e38d0b616361aae82b18a08833eb70ca1b220f6cd99f"
+    },
+    {
+      "path": "samarskaya-oblast/samarskaya-luka/index.html",
+      "sha256": "806b966fb9db992b1b40ecf00efc33eb79fa09e23822a42f6394afdf903fb52b"
+    },
+    {
+      "path": "samarskaya-oblast/shiryaevo/index.html",
+      "sha256": "5bcde2922d9008aa39c661b378f009b8140464a5ff97ba3fa9070b50c74cfb55"
+    },
+    {
+      "path": "samarskaya-oblast/tolyatti/index.html",
+      "sha256": "bb453088a9787d62df56167e8d945858d4a5c30d9270a57042f72a668758b044"
+    },
+    {
+      "path": "samarskaya-oblast/zamok-garibaldi/index.html",
+      "sha256": "8d53eb434202881c1745bdeb97626b4b0837265053c2dc55456db433d14efa8a"
+    },
+    {
+      "path": "seo/index.html",
+      "sha256": "bb754abbd1572e4688358b21a29c5986ad5210fe3eb243208d120cca7f7ab461"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "68ab08991efaca902bcb8a6518106d8b29964c5651f39abbb7eb7c9713ca2770"
+    },
+    {
+      "path": "sobytiya/index.html",
+      "sha256": "a62b2b704a50388dc5b141d06afb8222a45dbed4b69f902fe8d57bf612a2d17e"
+    },
+    {
+      "path": "tury-po-rossii/yoshkar-ola/index.html",
+      "sha256": "f59ac12c13e45b43a9272c421e596c417a77d85c5e7cfad2c228643d19477e33"
+    }
+  ]
+}

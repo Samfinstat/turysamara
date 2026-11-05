@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Review build: all pages carry noindex. This is not access control.
