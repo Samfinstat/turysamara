@@ -1,0 +1,2767 @@
+{
+  "source": "запросы общие.csv",
+  "sha256": "41f32bad3493a239efc9226c32f94e063103e61db97c3e0acf85039677ecf31e",
+  "columns": [
+    "Частота/Yandex/Без региона",
+    "\"Частота\"/Yandex/Без региона",
+    "\"!Частота\"/Yandex/Без региона",
+    "\"[Частота]\"/Yandex/Без региона",
+    "\"[!Частота]\"/Yandex/Без региона"
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "query": "экскурсии по самаре",
+      "frequency": [
+        3304,
+        198,
+        417,
+        777,
+        125
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "samara",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 2,
+      "query": "экскурсии по самарской области",
+      "frequency": [
+        765,
+        115,
+        86,
+        149,
+        20
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "area",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 3,
+      "query": "экскурсии в самаре",
+      "frequency": [
+        5719,
+        432,
+        395,
+        623,
+        367
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "samara",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 4,
+      "query": "туры по самарской области",
+      "frequency": [
+        319,
+        53,
+        37,
+        63,
+        35
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "area",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 5,
+      "query": "замок гарибальди экскурсия из самары",
+      "frequency": [
+        92,
+        17,
+        16,
+        16,
+        15
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "garibaldi",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 6,
+      "query": "автобусные экскурсии по самаре",
+      "frequency": [
+        200,
+        123,
+        76,
+        118,
+        76
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 7,
+      "query": "ульянкины прогулки самара расписание экскурсий",
+      "frequency": [
+        369,
+        130,
+        119,
+        118,
+        8
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "excluded",
+      "reason": "Чужой бренд/организатор; не делать коммерческую посадочную от имени клиента"
+    },
+    {
+      "id": 8,
+      "query": "экскурсия на гору стрельная",
+      "frequency": [
+        null,
+        null,
+        26,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "strelnaya",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 9,
+      "query": "тур выходного дня в самарской области",
+      "frequency": [
+        56,
+        19,
+        9,
+        22,
+        19
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "area",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 10,
+      "query": "экскурсии самарская лука",
+      "frequency": [
+        null,
+        3,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "luka",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 11,
+      "query": "тур в замок гарибальди из самары",
+      "frequency": [
+        16,
+        1,
+        16,
+        1,
+        1
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "garibaldi",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 12,
+      "query": "подвальские террасы экскурсия",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "podvalye",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 13,
+      "query": "однодневные туры из самары",
+      "frequency": [
+        14,
+        6,
+        5,
+        4,
+        3
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "area",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 14,
+      "query": "туры в ширяево из самары",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "shiryaevo",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 15,
+      "query": "бункер сталина самара экскурсия купить билет",
+      "frequency": [
+        164,
+        71,
+        1,
+        71,
+        59
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "bunker",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 16,
+      "query": "необычная фильм экскурсия по самаре",
+      "frequency": [
+        24,
+        20,
+        25,
+        17,
+        16
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "cinema",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 17,
+      "query": "экскурсия самара купеческая",
+      "frequency": [
+        null,
+        null,
+        9,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "merchant",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 18,
+      "query": "алла борисова экскурсовод в городе самара биография",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "about",
+      "status": "conditional",
+      "reason": "Предварительная привязка к разделу; продукт/факт/подтема требует подтверждения"
+    },
+    {
+      "id": 19,
+      "query": "экскурсионное бюро самара",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "home",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 20,
+      "query": "поездки выходного дня из самары 13 сентября",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "schedule",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка; дату/год не выделять в отдельный URL"
+    },
+    {
+      "id": 21,
+      "query": "обзорная экскурсия по самаре",
+      "frequency": [
+        1069,
+        231,
+        94,
+        209,
+        173
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 22,
+      "query": "экскурсия в ширяево из тольятти на теплоходе",
+      "frequency": [
+        null,
+        null,
+        null,
+        24,
+        9
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Другое направление отправления; требует подтверждения логистики"
+    },
+    {
+      "id": 23,
+      "query": "город курорт самара расписание экскурсий",
+      "frequency": [
+        147,
+        61,
+        41,
+        38,
+        28
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "schedule",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 24,
+      "query": "экскурсия на гору стрельная из тольятти",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Другое направление отправления; требует подтверждения логистики"
+    },
+    {
+      "id": 25,
+      "query": "туры по самарской области из самары",
+      "frequency": [
+        34,
+        11,
+        16,
+        16,
+        11
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "area",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 26,
+      "query": "экскурсии тольятти по самарской области",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Другое направление отправления; требует подтверждения логистики"
+    },
+    {
+      "id": 27,
+      "query": "экскурсии в самаре 2026",
+      "frequency": [
+        123,
+        22,
+        21,
+        22,
+        21
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "schedule",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка; дату/год не выделять в отдельный URL"
+    },
+    {
+      "id": 28,
+      "query": "автобусная экскурсия по самаре обзорная",
+      "frequency": [
+        43,
+        32,
+        12,
+        8,
+        8
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 29,
+      "query": "экскурсия по самарской луке",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "luka",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 30,
+      "query": "тур выходного дня акция самарская область",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "offers",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 31,
+      "query": "экскурсии по самаре на автобусе",
+      "frequency": [
+        928,
+        124,
+        19,
+        105,
+        88
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 32,
+      "query": "экскурсия в бункер сталина самара",
+      "frequency": [
+        1345,
+        293,
+        27,
+        37,
+        45
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "bunker",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 33,
+      "query": "экскурсия на гору стрельная из самары",
+      "frequency": [
+        81,
+        61,
+        5,
+        51,
+        32
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "strelnaya",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 34,
+      "query": "ульянкины прогулки самара расписание экскурсий на 2026",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        42
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "excluded",
+      "reason": "Чужой бренд/организатор; не делать коммерческую посадочную от имени клиента"
+    },
+    {
+      "id": 35,
+      "query": "автобусная автомобильная обзорная экскурсия по самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 36,
+      "query": "замок гарибальди тольятти экскурсия из самары отзывы",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "garibaldi",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 37,
+      "query": "тур выходного 3 дня самарская область",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Нет подтверждённого трёхдневного продукта"
+    },
+    {
+      "id": 38,
+      "query": "26 сентября автобусные туры по самарской области",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "schedule",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка; дату/год не выделять в отдельный URL"
+    },
+    {
+      "id": 39,
+      "query": "самарская лука национальный парк экскурсии",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "luka",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 40,
+      "query": "экскурсии для школьников в самаре",
+      "frequency": [
+        48,
+        21,
+        18,
+        3,
+        14
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "school",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 41,
+      "query": "самара экскурсии по городу",
+      "frequency": [
+        588,
+        190,
+        78,
+        165,
+        34
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "samara",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 42,
+      "query": "самарская лука экскурсии из самары",
+      "frequency": [
+        170,
+        57,
+        38,
+        54,
+        37
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "luka",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 43,
+      "query": "виртуальная экскурсия по самарской области",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "informational-reserve",
+      "reason": "Цифровой контент: виртуальная/видеоэкскурсия; продукта нет"
+    },
+    {
+      "id": 44,
+      "query": "город курорт самара официальный сайт расписание экскурсий",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        73
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "schedule",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 45,
+      "query": "автобусная экскурсия по россии с самары",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "russia",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 46,
+      "query": "тур по самарской области ноябрь тольятти",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Другое направление отправления; требует подтверждения логистики"
+    },
+    {
+      "id": 47,
+      "query": "гора стрельная экскурсия на октябрь",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "strelnaya",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка; дату/год не выделять в отдельный URL"
+    },
+    {
+      "id": 48,
+      "query": "экскурсия в замок гарибальди из самары",
+      "frequency": [
+        71,
+        26,
+        12,
+        15,
+        9
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "garibaldi",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 49,
+      "query": "экскурсия по волге самара",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 50,
+      "query": "кот путешественник самара расписание экскурсий",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        15
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "excluded",
+      "reason": "Чужой бренд/организатор; не делать коммерческую посадочную от имени клиента"
+    },
+    {
+      "id": 51,
+      "query": "экскурсии по самарской области от тлт тур",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "excluded",
+      "reason": "Чужой бренд/организатор; не делать коммерческую посадочную от имени клиента"
+    },
+    {
+      "id": 52,
+      "query": "экскурсия для школьников на гору стрельная",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "school",
+      "status": "conditional",
+      "reason": "Предварительная привязка к разделу; продукт/факт/подтема требует подтверждения"
+    },
+    {
+      "id": 53,
+      "query": "экскурсии на теплоходе в самаре",
+      "frequency": [
+        591,
+        53,
+        43,
+        25,
+        15
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 54,
+      "query": "экскурсии по самаре на автобусе обзорные",
+      "frequency": [
+        632,
+        349,
+        49,
+        213,
+        132
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 55,
+      "query": "экскурсия в ширяево из самары",
+      "frequency": [
+        461,
+        107,
+        56,
+        97,
+        50
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "shiryaevo",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 56,
+      "query": "экскурсия на шоколадную фабрику в самаре",
+      "frequency": [
+        110,
+        63,
+        26,
+        56,
+        40
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Не подтверждена шоколадная фабрика"
+    },
+    {
+      "id": 57,
+      "query": "экскурсия по самаре на теплоходе",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 58,
+      "query": "бесплатные экскурсии в самаре",
+      "frequency": [
+        35,
+        7,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Бесплатные программы не подтверждены"
+    },
+    {
+      "id": 59,
+      "query": "самара экскурсии по волге на теплоходе",
+      "frequency": [
+        136,
+        7,
+        4,
+        3,
+        3
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 60,
+      "query": "экскурсия в казань из самары",
+      "frequency": [
+        331,
+        108,
+        40,
+        13,
+        9
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "kazan",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 61,
+      "query": "бесплатные экскурсии по самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Бесплатные программы не подтверждены"
+    },
+    {
+      "id": 62,
+      "query": "интересные экскурсии в самаре",
+      "frequency": [
+        46,
+        22,
+        11,
+        21,
+        22
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "unusual",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 63,
+      "query": "пешеходные экскурсии по самаре",
+      "frequency": [
+        77,
+        48,
+        9,
+        46,
+        37
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "walking",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 64,
+      "query": "экскурсия в ширяево из самары на теплоходе",
+      "frequency": [
+        71,
+        67,
+        62,
+        63,
+        61
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "shiryaevoBoat",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 65,
+      "query": "самара экскурсии по городу на автобусе",
+      "frequency": [
+        114,
+        23,
+        32,
+        9,
+        4
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 66,
+      "query": "экскурсии по самаре для школьников",
+      "frequency": [
+        19,
+        9,
+        5,
+        9,
+        4
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "school",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 67,
+      "query": "экскурсия из самары в тольятти",
+      "frequency": [
+        235,
+        104,
+        26,
+        30,
+        15
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "tolyatti",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 68,
+      "query": "экскурсии по волге в самаре",
+      "frequency": [
+        148,
+        61,
+        113,
+        16,
+        6
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 69,
+      "query": "виртуальная экскурсия по самаре",
+      "frequency": [
+        4,
+        3,
+        3,
+        3,
+        3
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "informational-reserve",
+      "reason": "Цифровой контент: виртуальная/видеоэкскурсия; продукта нет"
+    },
+    {
+      "id": 70,
+      "query": "экскурсии для детей в самаре",
+      "frequency": [
+        48,
+        10,
+        22,
+        20,
+        15
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "children",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 71,
+      "query": "обзорная экскурсия по самаре на автобусе групповые",
+      "frequency": [
+        34,
+        33,
+        39,
+        23,
+        23
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 72,
+      "query": "экскурсии по самаре и самарской области",
+      "frequency": [
+        98,
+        43,
+        30,
+        38,
+        42
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "home",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 73,
+      "query": "экскурсии в дивеево из самары",
+      "frequency": [
+        62,
+        24,
+        9,
+        21,
+        26
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "diveevo",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 74,
+      "query": "пешая экскурсия по самаре",
+      "frequency": [
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "walking",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 75,
+      "query": "экскурсия на пивзавод в самаре",
+      "frequency": [
+        194,
+        44,
+        25,
+        32,
+        12
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "brewery",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 76,
+      "query": "автобусные экскурсии в самаре",
+      "frequency": [
+        48,
+        3,
+        2,
+        2,
+        7
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 77,
+      "query": "экскурсии по самаре индивидуальные",
+      "frequency": [
+        null,
+        null,
+        33,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "individual",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 78,
+      "query": "экскурсия в замок гарибальди из самары 2026",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "garibaldi",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка; дату/год не выделять в отдельный URL"
+    },
+    {
+      "id": 79,
+      "query": "ночная экскурсия по самаре",
+      "frequency": [
+        18,
+        13,
+        5,
+        9,
+        5
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "cinema",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 80,
+      "query": "экскурсия в ботанический сад самара",
+      "frequency": [
+        null,
+        null,
+        4,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Ботанический сад не подтверждён"
+    },
+    {
+      "id": 81,
+      "query": "экскурсии в москву из самары",
+      "frequency": [
+        62,
+        21,
+        5,
+        4,
+        4
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "moscow",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 82,
+      "query": "экскурсии по самаре на автобусе кабриолете",
+      "frequency": [
+        null,
+        null,
+        2,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Автобус-кабриолет не подтверждён"
+    },
+    {
+      "id": 83,
+      "query": "экскурсия в винновку из самары",
+      "frequency": [
+        197,
+        102,
+        56,
+        102,
+        56
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "vinnovka",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 84,
+      "query": "самара обзорная экскурсия по городу на автобусе",
+      "frequency": [
+        64,
+        34,
+        27,
+        18,
+        16
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "overview",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 85,
+      "query": "экскурсии в самаре и области",
+      "frequency": [
+        null,
+        null,
+        12,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "home",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 86,
+      "query": "куда сходить на экскурсию в самаре",
+      "frequency": [
+        11,
+        2,
+        2,
+        0,
+        0
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "guide",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 87,
+      "query": "экскурсии по самаре и самарской области 2026",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "home",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка; дату/год не выделять в отдельный URL"
+    },
+    {
+      "id": 88,
+      "query": "экскурсии в самаре и самарской области",
+      "frequency": [
+        66,
+        35,
+        49,
+        31,
+        35
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "home",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 89,
+      "query": "самара экскурсии по городу с экскурсоводом цены",
+      "frequency": [
+        62,
+        31,
+        38,
+        31,
+        24
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "samara",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 90,
+      "query": "экскурсия в болгары из самары",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "bolgar",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 91,
+      "query": "онлайн экскурсия по самаре",
+      "frequency": [
+        null,
+        23,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "informational-reserve",
+      "reason": "Цифровой контент: виртуальная/видеоэкскурсия; продукта нет"
+    },
+    {
+      "id": 92,
+      "query": "экскурсия в йошкар олу из самары",
+      "frequency": [
+        38,
+        33,
+        11,
+        19,
+        20
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "yoshkar",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 93,
+      "query": "экскурсия по барам самара",
+      "frequency": [
+        24,
+        16,
+        16,
+        13,
+        8
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Барный маршрут не подтверждён"
+    },
+    {
+      "id": 94,
+      "query": "экскурсия по пивзаводу самара",
+      "frequency": [
+        33,
+        28,
+        8,
+        27,
+        24
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "brewery",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 95,
+      "query": "экскурсия в дивеево из самары на автобусе",
+      "frequency": [
+        22,
+        6,
+        7,
+        9,
+        5
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "diveevo",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 96,
+      "query": "экскурсия по золотому кольцу из самары",
+      "frequency": [
+        null,
+        null,
+        11,
+        null,
+        2
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Золотое кольцо не подтверждено"
+    },
+    {
+      "id": 97,
+      "query": "экскурсия в сыроварню самара",
+      "frequency": [
+        58,
+        8,
+        6,
+        4,
+        4
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "cheese",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 98,
+      "query": "самара экскурсии по волге на теплоходе однодневные",
+      "frequency": [
+        42,
+        35,
+        73,
+        33,
+        33
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 99,
+      "query": "экскурсии в самаре для школьников интересные",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "school",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 100,
+      "query": "экскурсия в тарханы из самары",
+      "frequency": [
+        11,
+        5,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "tarkhany",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 101,
+      "query": "самара видео экскурсия по городу",
+      "frequency": [
+        11,
+        7,
+        7,
+        7,
+        7
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "informational-reserve",
+      "reason": "Цифровой контент: виртуальная/видеоэкскурсия; продукта нет"
+    },
+    {
+      "id": 102,
+      "query": "обзорная экскурсия по самаре на автобусе кабриолете",
+      "frequency": [
+        15,
+        13,
+        10,
+        11,
+        10
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Автобус-кабриолет не подтверждён"
+    },
+    {
+      "id": 103,
+      "query": "экскурсия в сокские штольни самара",
+      "frequency": [
+        10,
+        4,
+        15,
+        3,
+        3
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "shtolni",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 104,
+      "query": "экскурсии по россии из самары",
+      "frequency": [
+        null,
+        null,
+        17,
+        null,
+        0
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "russia",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 105,
+      "query": "пивоваренный завод в самаре экскурсия",
+      "frequency": [
+        89,
+        39,
+        17,
+        25,
+        31
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "brewery",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 106,
+      "query": "экскурсия в самару из уфы",
+      "frequency": [
+        null,
+        null,
+        0,
+        null,
+        0
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Другое направление отправления; требует подтверждения логистики"
+    },
+    {
+      "id": 107,
+      "query": "ульянкины прогулки экскурсии по самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "excluded",
+      "reason": "Чужой бренд/организатор; не делать коммерческую посадочную от имени клиента"
+    },
+    {
+      "id": 108,
+      "query": "экскурсия в пожарную часть самара",
+      "frequency": [
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Пожарная часть не подтверждена"
+    },
+    {
+      "id": 109,
+      "query": "обзорная экскурсия по самаре на теплоходе расписание",
+      "frequency": [
+        11,
+        7,
+        11,
+        11,
+        7
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Круговая обзорная теплоходная программа не подтверждена"
+    },
+    {
+      "id": 110,
+      "query": "экскурсии в самаре сегодня",
+      "frequency": [
+        26,
+        8,
+        10,
+        8,
+        1
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "schedule",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 111,
+      "query": "завод жигулевского пива в самаре экскурсия",
+      "frequency": [
+        12,
+        8,
+        21,
+        7,
+        7
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Жигулёвский завод не заменять заводом Балтика"
+    },
+    {
+      "id": 112,
+      "query": "ура турфирма самара экскурсии по самаре",
+      "frequency": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "excluded",
+      "reason": "Чужой бренд/организатор; не делать коммерческую посадочную от имени клиента"
+    },
+    {
+      "id": 113,
+      "query": "экскурсия по самаре ночью",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "cinema",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 114,
+      "query": "экскурсия на производство в самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "school",
+      "status": "conditional",
+      "reason": "Предварительная привязка к разделу; продукт/факт/подтема требует подтверждения"
+    },
+    {
+      "id": 115,
+      "query": "экскурсия в винновку из самары на теплоходе",
+      "frequency": [
+        214,
+        83,
+        13,
+        81,
+        50
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "vinnovka",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 116,
+      "query": "самара арена экскурсия по стадиону",
+      "frequency": [
+        13,
+        4,
+        6,
+        4,
+        3
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Стадион не подтверждён"
+    },
+    {
+      "id": 117,
+      "query": "экскурсия в сызрань из самары",
+      "frequency": [
+        23,
+        15,
+        8,
+        10,
+        7
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Сызрань: нет проверенной карточки программы"
+    },
+    {
+      "id": 118,
+      "query": "экскурсии на жигулевский пивзавод в самаре",
+      "frequency": [
+        87,
+        22,
+        28,
+        5,
+        7
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Жигулёвский завод не заменять заводом Балтика"
+    },
+    {
+      "id": 119,
+      "query": "экскурсия в волгоград из самары",
+      "frequency": [
+        null,
+        null,
+        17,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Волгоград: нет проверенной карточки программы"
+    },
+    {
+      "id": 120,
+      "query": "экскурсия в дом со слонами самара",
+      "frequency": [
+        9,
+        7,
+        4,
+        5,
+        5
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Дом со слонами: проверить фактический доступ и карточку программы"
+    },
+    {
+      "id": 121,
+      "query": "экскурсия на шоколадную фабрику россия в самаре",
+      "frequency": [
+        20,
+        9,
+        12,
+        11,
+        5
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Фабрика Россия не подтверждена"
+    },
+    {
+      "id": 122,
+      "query": "экскурсии в самаре индивидуальные",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "individual",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 123,
+      "query": "куда можно сходить на экскурсию в самаре",
+      "frequency": [
+        null,
+        null,
+        4,
+        null,
+        4
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "guide",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 124,
+      "query": "детские экскурсии в самаре",
+      "frequency": [
+        null,
+        null,
+        6,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "children",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 125,
+      "query": "что посмотреть в самаре экскурсии",
+      "frequency": [
+        15,
+        2,
+        1,
+        0,
+        0
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "guide",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 126,
+      "query": "город курорт экскурсии в самаре",
+      "frequency": [
+        181,
+        141,
+        93,
+        136,
+        136
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "home",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 127,
+      "query": "речные экскурсии в самаре",
+      "frequency": [
+        29,
+        9,
+        5,
+        7,
+        3
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 128,
+      "query": "самара экскурсия в замок гарибальди цена экскурсии",
+      "frequency": [
+        40,
+        24,
+        28,
+        18,
+        11
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "garibaldi",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 129,
+      "query": "бункер жукова в самаре экскурсия",
+      "frequency": [
+        9,
+        8,
+        8,
+        8,
+        8
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Бункер Жукова не заменять бункером Сталина"
+    },
+    {
+      "id": 130,
+      "query": "теплоходные экскурсии в самаре",
+      "frequency": [
+        31,
+        10,
+        16,
+        10,
+        9
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 131,
+      "query": "экскурсия в гостиницу самара",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Экскурсия в гостиницу не подтверждена"
+    },
+    {
+      "id": 132,
+      "query": "экскурсия для первоклассников в самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "school",
+      "status": "conditional",
+      "reason": "Предварительная привязка к разделу; продукт/факт/подтема требует подтверждения"
+    },
+    {
+      "id": 133,
+      "query": "экскурсии по волге на теплоходе в самаре",
+      "frequency": [
+        null,
+        null,
+        15,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "river",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 134,
+      "query": "афиша экскурсий в самаре глеба алексушина",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "excluded",
+      "reason": "Чужой бренд/организатор; не делать коммерческую посадочную от имени клиента"
+    },
+    {
+      "id": 135,
+      "query": "экскурсия на пивной завод в самаре",
+      "frequency": [
+        null,
+        null,
+        7,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "brewery",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 136,
+      "query": "сыроварня в самаре в царевщине экскурсия",
+      "frequency": [
+        11,
+        8,
+        10,
+        8,
+        6
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": "cheese",
+      "status": "conditional",
+      "reason": "Предварительная привязка к разделу; продукт/факт/подтема требует подтверждения"
+    },
+    {
+      "id": 137,
+      "query": "экскурсия в пожарную часть для школьников самара",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Пожарная часть не подтверждена"
+    },
+    {
+      "id": 138,
+      "query": "экскурсия на фабрику мороженого в самаре",
+      "frequency": [
+        13,
+        13,
+        8,
+        8,
+        11
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": true,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Фабрика мороженого не подтверждена"
+    },
+    {
+      "id": 139,
+      "query": "экскурсия в музей шоколада в самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Музей шоколада не подтверждён"
+    },
+    {
+      "id": 140,
+      "query": "самара экскурсия в анатомический музей",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Анатомический музей не подтверждён"
+    },
+    {
+      "id": 141,
+      "query": "экскурсия в питер из самары на автобусе",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Петербург: нет подтверждённого автобусного продукта"
+    },
+    {
+      "id": 142,
+      "query": "экскурсия в бункер сталина самара цена билета",
+      "frequency": [
+        null,
+        null,
+        5,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": false,
+      "frequencyConflict": false,
+      "owner": "bunker",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 143,
+      "query": "экскурсия в иверский монастырь самара",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Иверский монастырь: проверить программу"
+    },
+    {
+      "id": 144,
+      "query": "экскурсии из владимира в самару",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Другое направление отправления; требует подтверждения логистики"
+    },
+    {
+      "id": 145,
+      "query": "куда свозить детей на экскурсию в самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "children",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 146,
+      "query": "велосипедная экскурсия в рождествено самара",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Велопрограмма в Рождествено: проверить карточку и сезон"
+    },
+    {
+      "id": 147,
+      "query": "новогодние экскурсии для школьников в самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "school",
+      "status": "conditional",
+      "reason": "Предварительная привязка к разделу; продукт/факт/подтема требует подтверждения"
+    },
+    {
+      "id": 148,
+      "query": "экскурсия православная с самары в серпухов",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Серпухов не подтверждён"
+    },
+    {
+      "id": 149,
+      "query": "организация экскурсии в самару сызрань тольятти",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "turnkey",
+      "status": "assigned",
+      "reason": "Кластер назначен по смыслу; требуется региональная SERP-проверка"
+    },
+    {
+      "id": 150,
+      "query": "организатор экскурсии в музей жукова в самаре",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Музей Жукова: не заменять Сталиным"
+    },
+    {
+      "id": 151,
+      "query": "экскурсии из самары в с зольное",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": "strelnaya",
+      "status": "conditional",
+      "reason": "Предварительная привязка к разделу; продукт/факт/подтема требует подтверждения"
+    },
+    {
+      "id": 152,
+      "query": "экскурсия в театр кукол закулисьем самара",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "reserve",
+      "reason": "Закулисье театра кукол не подтверждено"
+    },
+    {
+      "id": 153,
+      "query": "экскурсии в самаре от бизнес инкубатор",
+      "frequency": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "region": "Без региона",
+      "collectedAt": null,
+      "allMissing": true,
+      "frequencyConflict": false,
+      "owner": null,
+      "status": "excluded",
+      "reason": "Чужой бренд/организатор; не делать коммерческую посадочную от имени клиента"
+    }
+  ]
+}

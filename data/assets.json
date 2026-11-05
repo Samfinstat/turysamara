@@ -1,0 +1,128 @@
+{
+  "samara": {
+    "src": "/assets/hero.webp",
+    "width": 853,
+    "height": 1280,
+    "source": "https://gorod-kurort.com/wp-content/themes/kadence/assets/img/dome/1@2x.jpg",
+    "alt": "Фотография программы Города-Курорта"
+  },
+  "nature": {
+    "src": "/assets/nature.webp",
+    "width": 819,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2020/06/img_8697.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "river": {
+    "src": "/assets/river.webp",
+    "width": 768,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2021/05/img_6716-scaled.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "castle": {
+    "src": "/assets/castle.webp",
+    "width": 768,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2025/09/img_7786.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "cheese": {
+    "src": "/assets/cheese.webp",
+    "width": 768,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2021/04/img_1937.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "evening": {
+    "src": "/assets/evening.webp",
+    "width": 768,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2026/05/img_6762.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "brewery": {
+    "src": "/assets/brewery.webp",
+    "width": 764,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2025/03/img_4146.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "merchant": {
+    "src": "/assets/merchant.webp",
+    "width": 768,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2024/03/img_9357-scaled.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "kazan": {
+    "src": "/assets/kazan.webp",
+    "width": 662,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2025/09/img_5314-1.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "yoshkar": {
+    "src": "/assets/yoshkar.webp",
+    "width": 768,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2025/09/img_0074-scaled.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "diveevo": {
+    "src": "/assets/diveevo.webp",
+    "width": 764,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2026/06/img_1747.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "bolgar": {
+    "src": "/assets/bolgar.webp",
+    "width": 680,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2024/06/img_7731.png",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "moscow": {
+    "src": "/assets/moscow.webp",
+    "width": 827,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2025/09/img_5357.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "family": {
+    "src": "/assets/family.webp",
+    "width": 768,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2026/05/img_0864.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "strelnaya": {
+    "src": "/assets/strelnaya.webp",
+    "width": 819,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2025/09/img_7008.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "garibaldi2": {
+    "src": "/assets/castle.webp",
+    "width": 768,
+    "height": 1024,
+    "source": "https://gorod-kurort.com/wp-content/uploads/2025/09/img_7786.jpeg",
+    "alt": "Фотография из галереи программы Города-Курорта"
+  },
+  "roof": {
+    "src": "/assets/roof.webp",
+    "width": 1024,
+    "height": 683,
+    "source": "https://gorod-kurort.com/wp-content/themes/kadence/assets/img/roof-2-web.jpg",
+    "alt": "Фотография программы Города-Курорта"
+  },
+  "hero": {
+    "src": "/assets/hero.webp",
+    "width": 853,
+    "height": 1280,
+    "source": "https://gorod-kurort.com/wp-content/themes/kadence/assets/img/dome/1@2x.jpg",
+    "alt": "Фотография программы Города-Курорта"
+  }
+}

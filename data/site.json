@@ -1,0 +1,16 @@
+{
+  "name": "Город-Курорт",
+  "tagline": "Туроператор новых впечатлений",
+  "origin": "https://gorod-kurort.com",
+  "telephone": "+79370797347",
+  "telephoneDisplay": "+7 (937) 079-73-47",
+  "email": "info@gorod-kurort.com",
+  "reviewDate": "2026-11-05",
+  "productionApproved": false,
+  "organizationFactsApproved": false,
+  "legalApproved": false,
+  "bookingConnected": false,
+  "analyticsConnected": false,
+  "navigation": ["schedule", "samara", "area", "russia", "turnkey", "school", "about"],
+  "footer": ["schedule", "samara", "area", "russia", "turnkey", "school", "offers", "blog", "about", "contacts", "booking"]
+}
