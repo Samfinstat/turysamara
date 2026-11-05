@@ -3,8 +3,11 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 const pages=JSON.parse(fs.readFileSync('data/pages.json'));
 const semantics=JSON.parse(fs.readFileSync('data/semantics.json'));
-const report=JSON.parse(fs.readFileSync('dist/review/manifest.json'));
-const base=report.base;
+const homeHtml=fs.readFileSync('dist/index.html','utf8');
+const base=homeHtml.match(/data-base="([^"]*)"/)?.[1];
+assert.notEqual(base,undefined,'Missing base path in rendered home page');
+assert(!fs.existsSync('dist/review'),'Client build must not contain deliverable exports');
+assert(!fs.readFileSync('dist/assets/app.js','utf8').includes('export-seo'),'Client script must not generate downloadable passports');
 const ids=new Set(pages.map(p=>p.id));
 assert.equal(ids.size,pages.length,'Duplicate page IDs');
 for(const k of ['path','title','description'])assert.equal(new Set(pages.map(p=>p[k])).size,pages.length,'Duplicate '+k);
@@ -32,6 +35,10 @@ for(const p of pages){
  assert(!JSON.stringify(structured).includes('"price"'));
  const passport=JSON.parse(html.match(/<script id="page-passport" type="application\/json">([\s\S]*?)<\/script>/)[1]);
  assert.equal(passport.id,p.id);
+ assert(!('sections' in passport)&&!('queries' in passport),'Do not embed the complete work package in the inspector data');
+ assert(!/\bdownload(?:\s|=|>)/.test(html),'No download controls in client preview');
+ assert(!html.includes('id="export-seo"'),'No passport download button');
+ assert(!html.includes(base+'/review/'),'No links to work-package exports');
  for(const m of html.matchAll(/<a\b[^>]*href="([^"]+)"/g)){
   const href=m[1];if(!href.startsWith('/'))continue;
   assert(!base||href.startsWith(base+'/'),`${p.id}: base path missing ${href}`);
